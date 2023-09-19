@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ajcj7
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... b.e
-- 
+- <P>hello aj</P>
+
 
 
 <!---
