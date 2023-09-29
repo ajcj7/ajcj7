@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ajcj7
+- 👋 Hi, I’m AjithKulal
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... b.e
-- <P>hello aj</P>
+- 🌱 I’m currently learning ... ECE in DR.AIT      @bangore.
+Intrested in <i>techstartups<i>
+- 
 
 
 
