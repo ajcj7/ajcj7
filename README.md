@@ -1,8 +1,9 @@
 - 👋 Hi, I’m AjithKulal
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ... ECE in DR.AIT      @bangore.
-Intrested in <i>techstartups<i>
-- 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning ... ECE in DR.AIT  @bangore.
+   Intrested in <i> techstartups,blockchain development and entrepreneurship  <i>
+   
+ 
 
 
 
